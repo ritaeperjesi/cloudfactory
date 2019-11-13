@@ -26,7 +26,7 @@ A nice stranger asks you, to look for an image about a cloud in your phone, and 
 3. The 3D object is projected in 3d with 3 projectors on a fog, coming from the chimney-fogmachine. 
 https://www.youtube.com/watch?v=v0bXuCIwtJo&feature=emb_logo
 4. The 3D object is also shown on the wall in 2D, and it is slowly moving across the room.
-5. Each time a new cloud comes, they are collected on the screens, the 3D clouds are the most recent clouds. 
+5. Each time a new cloud comes, they are collected on the screens (as I'm already using 3 projectors), the 3D clouds are the most recent clouds. 
 6. By the way, there is some fog on the level of the floor, as you were standing on a cloud.
 
 ## **SLIGHTLY MORE REALISTIC BEST CASE: Appointment with your cloud**
@@ -35,7 +35,7 @@ https://www.youtube.com/watch?v=v0bXuCIwtJo&feature=emb_logo
 1. You send an image about your cloud.
 2. You enter a smaller and darker room, where there is one chimney, and your cloud is hanging out in 3D above it. 
 3. There are other clouds on the screens around you.
-4. There is some fog on the floor level.
+4. There is some uncontrolled fog on the floor level.
 
 ## **WORST CASE: Just 3 clouds**
 ![alt text](https://github.com/ritaeperjesi/cloudfactory/blob/master/3.jpg)
@@ -49,4 +49,16 @@ I find the way to generate these clouds in 2D.
 **USER EXPERIENCE:**
 So you are in this space, surrounded by projections of different pretty clouds around you. If the zombies left some fog machine, there is some fog on the ground. 
 
+## **THINGS TO DO**
 
+## **TIMING**
+**november**
+watching unity tutorials about how to make clouds.
+**december**
+doing the other homeworks, and having Christmas.
+**january**
+experimenting with fog and projection in 3d
+**february**
+making the clouds in 3d
+**march**
+making the cloud recognition and the way of making 2d clouds into 3d clouds
