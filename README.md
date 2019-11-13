@@ -50,6 +50,16 @@ I find the way to generate these clouds in 2D.
 So you are in this space, surrounded by projections of different pretty clouds around you. If the zombies left some fog machine, there is some fog on the ground. 
 
 ## **THINGS TO DO**
+**WORST:**
+[ ] making cloudy particle systems in unity(?)
+[ ] getting these clouds projected 
+[ ] pretty projection of a room
+[ ] turning on the fog machine
+**BEST:**
+[ ] 3d model of these clouds
+[ ] making 3 images of these clouds which go to the 3 projectors
+[ ] projection on fog
+[ ] cloud generation from image 
 
 ## **TIMING**
 **november**
@@ -57,8 +67,10 @@ watching unity tutorials about how to make clouds.
 **december**
 doing the other homeworks, and having Christmas.
 **january**
-experimenting with fog and projection in 3d
+experimenting with fog and projection in 3d.
 **february**
-making the clouds in 3d
+making the clouds in 3d.
 **march**
 making the cloud recognition and the way of making 2d clouds into 3d clouds
+**march**
+installation
