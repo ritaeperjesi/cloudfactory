@@ -52,9 +52,13 @@ So you are in this space, surrounded by projections of different pretty clouds a
 ## **THINGS TO DO**
 **WORST:**
 [ ] making cloudy particle systems in unity(?)
+
 [ ] getting these clouds projected 
+
 [ ] pretty projection of a room
+
 [ ] turning on the fog machine
+
 **BEST:**
 [ ] 3d model of these clouds
 [ ] making 3 images of these clouds which go to the 3 projectors
