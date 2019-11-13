@@ -1,14 +1,14 @@
 # cloudfactory
 Orientierungsprojekt
 
-# INSIGHT
+# insight
 The sky is taking up a huge part of our eyesight, affects our life, 
 but it always stays an untouched.
 
-# IDEA
+# idea
 I want to make the experience of touching the sky. 
 
-# EXECUTION
+# execution
 An installation, which brings the sky down to the human level. 
 A room, where you can meet the clouds, that are above you.
 
