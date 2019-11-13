@@ -39,6 +39,14 @@ https://www.youtube.com/watch?v=v0bXuCIwtJo&feature=emb_logo
 
 ## **WORST CASE: Just 3 clouds**
 ![alt text](https://github.com/ritaeperjesi/cloudfactory/blob/master/3.jpg)
+**RITA EXPERIENCE:**
+1. Because of the zombie apocalipse, I've lost a lot of time, but luckily I saved my life and my computer. I still try to find some beauty in life, so I do the cloud project in smaller scale.
+2. There are no more clouds, so people can't send me clouds. Or things don't work with finding clouds on the images. 
+So I'll decide to make 3 cloud architypes of the clouds: a cirrus, a cumulus and a magical random cloud.
+I find the way to generate these clouds in 2D.
+4. The zombies destroyed the last fog machine as well, OR I just can't project 3d stuff on fog, so I display these clouds on the walls. 
+
 **USER EXPERIENCE:**
-1. You
+So you are in this space, surrounded by projections of different pretty clouds around you. If the zombies left some fog machine, there is some fog on the ground. 
+
 
