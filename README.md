@@ -37,7 +37,7 @@ https://www.youtube.com/watch?v=v0bXuCIwtJo&feature=emb_logo
 3. There are other clouds on the screens around you.
 4. There is some uncontrolled fog on the floor level.
 
-## **WORST CASE: Just 3 clouds**
+## **WORST CASE: Just a few random clouds**
 ![alt text](https://github.com/ritaeperjesi/cloudfactory/blob/master/3.jpg)
 **RITA EXPERIENCE:**
 1. Because of the zombie apocalipse, I've lost a lot of time, but luckily I saved my life and my computer. I still try to find some beauty in life, so I do the cloud project in smaller scale.
